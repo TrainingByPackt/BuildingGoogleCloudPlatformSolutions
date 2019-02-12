@@ -1,2 +1,2 @@
-# Building-Google-Cloud-Platform-Solutions
+# BuildingGoogleCloudPlatformSolutions
 Build, deploy, maintain, and monitor applications on the Google Cloud Platform (GCP)
